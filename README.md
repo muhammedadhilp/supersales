@@ -156,4 +156,4 @@ Segment customers based on purchasing behavior.
 
 # :key: Dashboard 
 
-![superstore ](https://github.com/Sumit-Baviskar/SQl-Amazon-sales/assets/153518735/f560e20d-659f-435f-ae0d-c098e7dc84eb)
+![superstore ](https://github.com/muhammedadhilp/supersales/blob/main/superstore%20.gif)
