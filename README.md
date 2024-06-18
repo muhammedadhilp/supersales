@@ -88,7 +88,7 @@ Analyze popularity of sub-categories in different regions.
 Segment customers based on purchasing behavior.
 
 
-# :green_book: Dataset Columns: :green_book:
+# Dataset Columns: 
 
 **order_id:** IDs of all orders
 
@@ -154,6 +154,6 @@ Segment customers based on purchasing behavior.
 
 
 
-# :key: Dashboard 
+# Dashboard 
 
 ![superstore ](https://github.com/muhammedadhilp/supersales/blob/main/superstore%20.gif)
