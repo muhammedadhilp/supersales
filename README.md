@@ -1,8 +1,13 @@
 # Superstore-Sales-Dataset (SQL+Power BI) 
 
 # Dataset Overview 
-The dataset provided originates from a survey conducted in 2014 within the technology sector, aiming to assess attitudes towards mental health and the prevalence of mental health disorders in the workplace. It offers a valuable insight into the mental health landscape within the tech industry, shedding light on perceptions, experiences, and responses related to mental well-being among employees
+The Superstore dataset is a comprehensive collection of sales transactions for a fictional retail store, capturing detailed information across multiple dimensions of the business. Each record in the dataset represents an individual order and includes critical identifiers such as order_id and product_id to track transactions and products respectively. The dataset provides temporal details with columns like order_date, ship_date, and year, which enable time-series analysis and shipping performance evaluations.
 
+Customer-related information is well-documented, featuring customer_name and segment, allowing for customer segmentation and behavior analysis. Geographic data is captured through state, country, market, and region, facilitating regional sales analysis and market trend identification.
+
+Product details are granular, including category, sub_category, and product_name, supporting product performance assessments and inventory management. Financial metrics such as sales, quantity, discount, profit, and shipping_cost provide insights into revenue generation, cost management, and profitability analysis. Additionally, the ship_mode and order_priority columns offer further granularity on logistical and priority considerations of orders.
+
+This dataset is valuable for conducting a wide range of data analyses, from basic descriptive statistics to advanced predictive modeling, making it an essential resource for data science and business analytics projects.
 
 
 # Tools Used 
